@@ -2260,7 +2260,7 @@
 
 "@pancakeswap-libs/uikit@bourbondefi/dogechain-uikit":
   version "0.13.1"
-  resolved "https://codeload.github.com/bourbondefi/dogechain-uikit/tar.gz/777fc7017eac557fe84813296a227797fed547ca"
+  resolved "https://codeload.github.com/bourbondefi/dogechain-uikit/tar.gz/8d27efd3b8a5806afe4fcc227a44b0fadbd376aa"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
