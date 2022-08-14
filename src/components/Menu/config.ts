@@ -13,11 +13,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://doge.bourbondefi.com/',
+        href: 'https://dogechain.bourbondefi.com/',
       },
       {
         label: 'Liquidity',
-        href: 'https://doge.bourbondefi.com/#/pool',
+        href: 'https://dogechain.bourbondefi.com/#/pool',
       },
     ],
   },

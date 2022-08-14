@@ -16,6 +16,13 @@
       "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
       "chainId": 2000,
       "decimals": 18
+    },
+    {
+      "name": "Bourbon Token",
+      "symbol": "Bourbon",
+      "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B",
+      "chainId": 2000,
+      "decimals": 18
     }
   ]
 }
