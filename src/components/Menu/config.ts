@@ -39,7 +39,7 @@ const config: MenuEntry[] = [
   {
     label: 'Telegram',
     icon: 'TelegramIcon',
-    href: 'https://t.me/BourbonDefiChat',
+    href: 'https://t.me/BourbonDAO',
   },
 ]
 
