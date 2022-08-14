@@ -17,7 +17,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Liquidity',
-        href: 'https://dogec.bourbondefi.com/#/pool',
+        href: 'https://doge.bourbondefi.com/#/pool',
       },
     ],
   },
