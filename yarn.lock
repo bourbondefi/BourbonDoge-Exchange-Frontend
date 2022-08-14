@@ -2258,9 +2258,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@bourbondefi/MilkBourbon-uikit":
+"@pancakeswap-libs/uikit@bourbondefi/dogechain-uikit":
   version "0.13.1"
-  resolved "https://codeload.github.com/bourbondefi/MilkBourbon-uikit/tar.gz/bdd6813391cfa57414dd32437f43924d41ee5596"
+  resolved "https://codeload.github.com/bourbondefi/dogechain-uikit/tar.gz/777fc7017eac557fe84813296a227797fed547ca"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
