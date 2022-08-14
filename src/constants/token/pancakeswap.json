@@ -1,0 +1,21 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/doge.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WDOGE Token",
+      "symbol": "WDOGE",
+      "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+      "chainId": 2000,
+      "decimals": 18
+    }
+  ]
+}
