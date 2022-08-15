@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: '/',
+    href: 'dogefarm.bourbondefi.com/',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms(coming soon)',
     icon: 'FarmIcon',
-    href: '/',
+    href: 'dogefarm.bourbondefi.com/',
   },
   {
     label: 'Pools(coming soon)',
     icon: 'PoolIcon',
-    href: '/',
+    href: 'dogefarm.bourbondefi.com/',
   },
   {
     label: 'Docs',
