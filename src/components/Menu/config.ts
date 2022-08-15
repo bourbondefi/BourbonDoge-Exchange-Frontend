@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'dogefarm.bourbondefi.com/',
+    href: 'https://dogefarm.bourbondefi.com/',
   },
   {
     label: 'Trade',
