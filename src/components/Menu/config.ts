@@ -22,12 +22,12 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Farms(coming soon)',
+    label: 'Farms',
     icon: 'FarmIcon',
     href: 'https://dogefarm.bourbondefi.com/farms',
   },
   {
-    label: 'Pools(coming soon)',
+    label: 'Pools',
     icon: 'PoolIcon',
     href: 'https://dogefarm.bourbondefi.com/pools',
   },
