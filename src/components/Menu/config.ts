@@ -44,7 +44,7 @@ const config: MenuEntry[] = [
   {
     label: 'Doge Miner',
     icon: 'FarmIcon',
-    href: 'https://dogeminer.bourbondefi.com/,
+    href: 'https://dogeminer.bourbondefi.com/',
   },
 ]
 
