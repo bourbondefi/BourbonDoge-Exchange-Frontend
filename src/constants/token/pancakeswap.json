@@ -37,6 +37,20 @@
       "address": "0xc2DD4557Ad5b9b481AFc3f9B1Db3D8A5Ce60Dace",
       "chainId": 2000,
       "decimals": 18
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "chainId": 2000,
+      "decimals": 18
+    },
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "chainId": 2000,
+      "decimals": 18
     }
   ]
 }
