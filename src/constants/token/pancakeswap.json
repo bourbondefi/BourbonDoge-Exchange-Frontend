@@ -51,6 +51,13 @@
       "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
       "chainId": 2000,
       "decimals": 6
+    },
+    {
+      "name": "YodeDEX Token",
+      "symbol": "YODE",
+      "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
+      "chainId": 2000,
+      "decimals": 6
     }
   ]
 }
