@@ -65,6 +65,13 @@
       "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
       "chainId": 2000,
       "decimals": 18
+    },
+    {
+      "name": "Treats Token",
+      "symbol": "TREATS",
+      "address": "0x3B47cb45E36A86a0148b1423f342CD629578dd21",
+      "chainId": 2000,
+      "decimals": 9
     }
   ]
 }
