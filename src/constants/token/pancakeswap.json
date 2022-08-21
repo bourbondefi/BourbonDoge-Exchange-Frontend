@@ -72,6 +72,27 @@
       "address": "0x3B47cb45E36A86a0148b1423f342CD629578dd21",
       "chainId": 2000,
       "decimals": 9
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+      "chainId": 2000,
+      "decimals": 18
+    },
+    {
+      "name": "BTC Token",
+      "symbol": "WBTC",
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "chainId": 2000,
+      "decimals": 8
+    },
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+      "chainId": 2000,
+      "decimals": 18
     }
   ]
 }
